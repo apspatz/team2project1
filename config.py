@@ -1,0 +1,1 @@
+zipcodeapi = "amnbjNkLnwt9Q0WsLXNV4mici69ljgPv1gPOHYueTUJG4EFG8VEQ3xwyj5tfgSkp"
