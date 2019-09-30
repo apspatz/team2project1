@@ -1,5 +1,5 @@
-#custom files
-config.*
+# custom files
+config.py
 
 
 # Byte-compiled / optimized / DLL files
