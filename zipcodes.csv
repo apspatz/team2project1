@@ -1,95 +1,95 @@
-,zip_code,city
-15,27523,Apex
-7,27539,Apex
-8,27502,Apex
-92,27503,Bahama
-91,27509,Butner
-14,27228,Bynum
-63,27510,Carrboro
-21,27519,Cary
-20,27513,Cary
-13,27511,Cary
-17,27512,Cary
-9,27518,Cary
-61,27516,Chapel Hill
-65,27515,Chapel Hill
-66,27599,Chapel Hill
-72,27514,Chapel Hill
-55,27517,Chapel Hill
-90,27564,Creedmoor
-89,27522,Creedmoor
-74,27702,Durham
-78,27711,Durham
-75,27706,Durham
-76,27708,Durham
-77,27710,Durham
-79,27715,Durham
-80,27717,Durham
-81,27722,Durham
-83,27701,Durham
-85,27705,Durham
-86,27704,Durham
-71,27703,Durham
-88,27712,Durham
-59,27713,Durham
-67,27709,Durham
-70,27707,Durham
-0,27526,Fuquay Varina
-5,27529,Garner
-87,27278,Hillsborough
-2,27540,Holly Springs
-18,27545,Knightdale
-3,27559,Moncure
-57,27560,Morrisville
-4,27562,New Hill
-12,27312,Pittsboro
-68,27613,Raleigh
-54,27609,Raleigh
-62,27617,Raleigh
-60,27615,Raleigh
-58,27616,Raleigh
-56,27612,Raleigh
-69,27614,Raleigh
-53,27604,Raleigh
-46,27675,Raleigh
-51,27698,Raleigh
-52,27699,Raleigh
-31,27624,Raleigh
-30,27623,Raleigh
-29,27622,Raleigh
-28,27621,Raleigh
-27,27620,Raleigh
-32,27625,Raleigh
-26,27619,Raleigh
-24,27602,Raleigh
-6,27603,Raleigh
-23,27607,Raleigh
-10,27606,Raleigh
-22,27608,Raleigh
-19,27605,Raleigh
-25,27611,Raleigh
-33,27626,Raleigh
-34,27627,Raleigh
-35,27628,Raleigh
-50,27697,Raleigh
-49,27695,Raleigh
-48,27690,Raleigh
-47,27676,Raleigh
-45,27668,Raleigh
-44,27661,Raleigh
-43,27658,Raleigh
-42,27656,Raleigh
-41,27650,Raleigh
-40,27640,Raleigh
-39,27636,Raleigh
-38,27635,Raleigh
-37,27634,Raleigh
-36,27629,Raleigh
-16,27601,Raleigh
-11,27610,Raleigh
-64,27571,Rolesville
-93,27581,Stem
-82,27587,Wake Forest
-73,27588,Wake Forest
-1,27592,Willow Spring
-84,27596,Youngsville
+city,zip_code
+Apex,27523
+Apex,27539
+Apex,27502
+Bahama,27503
+Butner,27509
+Bynum,27228
+Carrboro,27510
+Cary,27519
+Cary,27513
+Cary,27511
+Cary,27512
+Cary,27518
+Chapel Hill,27516
+Chapel Hill,27515
+Chapel Hill,27599
+Chapel Hill,27514
+Chapel Hill,27517
+Creedmoor,27564
+Creedmoor,27522
+Durham,27702
+Durham,27711
+Durham,27706
+Durham,27708
+Durham,27710
+Durham,27715
+Durham,27717
+Durham,27722
+Durham,27701
+Durham,27705
+Durham,27704
+Durham,27703
+Durham,27712
+Durham,27713
+Durham,27709
+Durham,27707
+Fuquay Varina,27526
+Garner,27529
+Hillsborough,27278
+Holly Springs,27540
+Knightdale,27545
+Moncure,27559
+Morrisville,27560
+New Hill,27562
+Pittsboro,27312
+Raleigh,27613
+Raleigh,27609
+Raleigh,27617
+Raleigh,27615
+Raleigh,27616
+Raleigh,27612
+Raleigh,27614
+Raleigh,27604
+Raleigh,27675
+Raleigh,27698
+Raleigh,27699
+Raleigh,27624
+Raleigh,27623
+Raleigh,27622
+Raleigh,27621
+Raleigh,27620
+Raleigh,27625
+Raleigh,27619
+Raleigh,27602
+Raleigh,27603
+Raleigh,27607
+Raleigh,27606
+Raleigh,27608
+Raleigh,27605
+Raleigh,27611
+Raleigh,27626
+Raleigh,27627
+Raleigh,27628
+Raleigh,27697
+Raleigh,27695
+Raleigh,27690
+Raleigh,27676
+Raleigh,27668
+Raleigh,27661
+Raleigh,27658
+Raleigh,27656
+Raleigh,27650
+Raleigh,27640
+Raleigh,27636
+Raleigh,27635
+Raleigh,27634
+Raleigh,27629
+Raleigh,27601
+Raleigh,27610
+Rolesville,27571
+Stem,27581
+Wake Forest,27587
+Wake Forest,27588
+Willow Spring,27592
+Youngsville,27596
