@@ -1,3 +1,7 @@
+# ignore the api key folder:
+API_Key_Holder.py
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
