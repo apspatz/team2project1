@@ -1,31 +1,31 @@
-district,description,count
-Downtown,Other crimes,145
-Downtown,Deceased Person,34
-Downtown,Missing Person,31
-Downtown,Assault,20
-Downtown,Sex crime,15
-North,Other crimes,157
-North,Deceased Person,88
-North,Missing Person,80
-North,Assault,37
-North,Sex crime,17
-Northeast,Other crimes,100
-Northeast,Missing Person,91
-Northeast,Deceased Person,75
-Northeast,Assault,39
-Northeast,Sex crime,22
-Northwest,Other crimes,135
-Northwest,Deceased Person,64
-Northwest,Missing Person,25
-Northwest,Sex crime,12
-Northwest,Assault,9
-Southeast,Other crimes,174
-Southeast,Missing Person,131
-Southeast,Assault,57
-Southeast,Deceased Person,55
-Southeast,Sex crime,28
-Southwest,Other crimes,130
-Southwest,Deceased Person,58
-Southwest,Missing Person,50
-Southwest,Assault,19
-Southwest,Sex crime,16
+description,district,count
+Assault,Southeast,57
+Assault,Northeast,39
+Assault,North,37
+Assault,Downtown,20
+Assault,Southwest,19
+Assault,Northwest,9
+Deceased Person,North,88
+Deceased Person,Northeast,75
+Deceased Person,Northwest,64
+Deceased Person,Southwest,58
+Deceased Person,Southeast,55
+Deceased Person,Downtown,34
+Missing Person,Southeast,131
+Missing Person,Northeast,91
+Missing Person,North,80
+Missing Person,Southwest,50
+Missing Person,Downtown,31
+Missing Person,Northwest,25
+Other crimes,Southeast,174
+Other crimes,North,157
+Other crimes,Downtown,145
+Other crimes,Northwest,135
+Other crimes,Southwest,130
+Other crimes,Northeast,100
+Sex crime,Southeast,28
+Sex crime,Northeast,22
+Sex crime,North,17
+Sex crime,Southwest,16
+Sex crime,Downtown,15
+Sex crime,Northwest,12
