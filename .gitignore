@@ -1,5 +1,6 @@
 # ignore the api key folder:
 API_Key_Holder.py
+config.py
 
 
 # Byte-compiled / optimized / DLL files
